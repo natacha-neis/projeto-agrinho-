@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+    background: #f3f3f3;
+    color: #333;
+}
+
+header {
+    background-color: #27ae60;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+.intro {
+    padding: 1.5rem;
+    background: white;
+    text-align: center;
+}
+
+.intro img {
+    max-width: 90%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+.conteudo {
+    padding: 2rem;
+    background-color: #eafaf1;
+}
+
+.conteudo h2 {
+    color: #2d8659;
+}
+
+footer {
+    background: #145a32;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+}
